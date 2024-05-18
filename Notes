@@ -1,1 +1,14 @@
+Elastic Kubernetes Service
+
+Why we need EKS?
+Pre-requisite
+  a. Hypervisor
+  b. Docker
+  c. On-prem kubernetes
+
+Hypervisor - software that creates & runs virtual machines, allows multiple os 
+             to share single hardware host 
+  Types - Type 1(Bare metal) - hypervisors run directly on host's hardware to control hardware & manage guest OS
+          Type 2(hosted) - hypervisors run within conventional os environment, i.e., host OS would be present on top of hardware( only difference between bare-metal)
+
 
